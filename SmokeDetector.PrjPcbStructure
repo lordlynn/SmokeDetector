@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=BLE.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=BLE.SchDoc|FileName=FlashMemory.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=BLE.SchDoc|FileName=GasSensor.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BLE.SchDoc|FileName=SmokeDetector.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BLE.SchDoc|FileName=USBtoUART.SchDoc|SheetNumber=4
